@@ -29,5 +29,3 @@ Final.ipynb
 <H2>License</H2>
 
 licensed under the [MIT](https://github.com/mkarbasi57/PredictNews/blob/main/LICENSE) License.
-
-[Back To The Top](https://github.com/mkarbasi57/PredictNews#PredictNews)
