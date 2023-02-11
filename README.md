@@ -1,5 +1,5 @@
 # PredictNews
-This repository is a simple example of natural language processing for news tag recognition using Jupiter and PyTorch
+This repository is a simple example of natural language processing for news tag recognition using Jupiter and Scikit learn
 
 <H2>Installation</H2>
 
